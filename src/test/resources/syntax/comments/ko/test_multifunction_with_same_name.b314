@@ -1,0 +1,23 @@
+declare and retain
+    j as integer;
+    fct1 as function():square
+        declare local
+        j as boolean;
+    	do
+    		set j to true
+    	done
+
+    fct3 as function():boolean
+    	do
+    		skip
+    	done
+    fct1 as function():square /* Same name */
+    	do
+    		skip
+    	done
+
+    j as integer;
+
+when your turn
+by default
+    do skip done

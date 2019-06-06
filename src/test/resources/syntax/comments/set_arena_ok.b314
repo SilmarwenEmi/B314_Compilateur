@@ -1,0 +1,8 @@
+declare and retain
+    v1 as boolean[5];
+    arena as square[27, 27];
+when your turn
+    by default do
+        set arena [1, 1] to player
+        set arena [12, 10] to ennemi
+    done

@@ -1,0 +1,10 @@
+declare and retain
+        fct1 as function():
+        do
+            skip
+        done
+    when your turn
+    by default
+        do
+            skip
+        done

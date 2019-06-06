@@ -1,0 +1,8 @@
+declare and retain
+    v1 as boolean[5];
+    arena as square[27, 27];
+    arena as square[20, 20];
+when your turn
+    by default do
+        skip
+    done

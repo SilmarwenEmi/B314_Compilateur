@@ -1,0 +1,10 @@
+/* My comments */
+declare and retain
+    i as boolean;
+    j as integer[27,27];
+when your turn
+by default
+    do
+        compute ((i)) = dirt
+    done
+

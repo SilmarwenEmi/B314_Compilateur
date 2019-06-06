@@ -1,0 +1,9 @@
+declare and retain
+    j as integer;
+
+when your turn
+by default
+    do
+      set j to 10
+
+done
